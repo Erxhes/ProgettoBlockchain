@@ -18,7 +18,7 @@ Le blockchain sono molto importanti perchè permettono di creare un libro mastro
 Le blockchain creano un sistema decentralizzato e a prova di manomissione per registrare le transazioni.
 Inoltre la loro importanza risiede soprattutto nel fatto di creare un libro mastro per l’acquirente e uno per il venditore. Tutte le transazioni devono essere approvate da entrambe le parti e sono automaticamente aggiornate in entrambi i libri mastri in tempo reale.
 
-Guida esaustiva e dettagliata sulle [blockchain](https://aws.amazon.com/it/what-is/blockchain/)
+Guida esaustiva e dettagliata sulle [Blockchain](https://aws.amazon.com/it/what-is/blockchain/)
 
 <a name="ethereum"></a>
 ##  Ethereum
@@ -43,9 +43,12 @@ Le applicazioni sono eseguite su una blockchain e quindi possiamo dire che Ether
  Guida esaustiva e dettagliata su [Ethereum](https://ethereum.org/it/what-is-ethereum/)
  
 
+<a name="harmony"></a>
+##  Harmony ONE
 
-
-
+Harmony è una blockchain progettata per la creazione e l'utilizzo di applicazioni decentralizzate in maniera veloce e scalabile.
+Uno dei punti più importanti di Harmony è l'implementazione dello sharding che ha permesso di ridurre il tempo di convalida dei nodi e quindi di velocizzare tutte le transizioni.
+Per garantire la protezione dei nodi e garantire il processo di convalida, Harmony ha introdotto la Verifiable Random Function (VRF) per l'appartenenza a frammenti imparziale e imprevedibile. Ciò significa che i nodi e i validatori vengono assegnati e riassegnati in modo casuale
 
 
 
