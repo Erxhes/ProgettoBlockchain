@@ -1,1 +1,1 @@
-# codici nel linguaggio solidity per ethereum 
+# codici in linguaggio solidity per ethereum 
