@@ -1,0 +1,5 @@
+const Progetto1 = artifacts.require("");
+
+module.exports = function(deployer) {
+  deployer.deploy();
+};
