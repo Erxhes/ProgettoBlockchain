@@ -74,4 +74,31 @@ Come vedremo più avanti il punto probabilmente di Harmony è l'introduzione e i
 <a name="sharding"></a>
 ##  Sharding
 
-Le caratteristiche più importanti di una blockchain sono *decentralizzazione, la sicurezza e la scalabilità*.
+Le caratteristiche più importanti di una blockchain sono *decentralizzazione, la sicurezza e la scalabilità*, ma è possibile averle tutte e tre insieme?
+Il co-fondatore di Ethereum creò il concetto di *Trilemma Delle Blockchain* per rappresentare le sfide a cui si va incontro nella creazioni delle blockchain.
+Il trilemma sostiene che mentre la blockchain ideale dovrebbe essere decentralizzata, sicura e scalabile, in realtà possono essere solo due su tre.
+Uno dei problemi maggiori delle blockchain e soprattutto di Ethereum o Bitcoin è il numero di transizioni al secondo (12 per la prima e 5 per la seconda) rispetto per esempio a Visa dove abbiamo migliaia di transizioni al secondo. 
+Come si può risolvere il problema?
+
+Lo sharding :
+
+implica il partizionamento del database in “frammenti” (i cosiddetti “shard“), in cui ognuno di questi è responsabile dell’elaborazione di una sola parte dei dati      archiviati nella rete. In questo modo, il tempo di elaborazione può essere notevolmente ridotto.
+L'implementazione dello sharding permetterebbe : 
+ - aumento numero transizioni
+ - costi ridotti
+ - velocità e maggiore scalabilità
+ - maggior accessibilità per gli utenti
+
+ma ci sono anche degli svantaggi : 
+ - codci che implementano lo sharding possono risultare complessi
+ - frammenti non disponibili se vi è un errore di rete
+ - la sicurezza
+
+Blockchain che hanno implementato lo sharding : 
+
+ - Ziliqa una delle più veloci blockchain attualmente.
+ - Harmony One
+ - Elrond
+
+Lo sharding dovrebbe essere uno dei punti futuri di Ethereum con l'utilizzio ovvimente dell'algoritmo di consenso Proof-Of-Stake (attualmente viene usato il PoW)
+
