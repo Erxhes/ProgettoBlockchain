@@ -2,6 +2,7 @@
 
 
 * [Introduzione](#intro)
+* [Algoritmi di Consenso](#algoritmi)
 * [Ethereum](#ethereum)
 * [Harmony ONE](#harmony)
 * [Sharding](#sharding)
@@ -20,6 +21,20 @@ Inoltre la loro importanza risiede soprattutto nel fatto di creare un libro mast
 
 Guida esaustiva e dettagliata sulle [Blockchain](https://aws.amazon.com/it/what-is/blockchain/)
 
+<a name="algoritmi"></a>
+##  Algoritmi di consenso
+
+L’algoritmo di consenso è un insieme di istruzioni con l'obiettivo di assicurare l'affidabilità del sistema trovando un accordo sulla validità dei dati tra un certo    numero di agenti o processi. 
+
+Le tipologie più importanti sono due : 
+
+- L’algoritmo Proof-of-Work fu introdotto per la prima volta da Satoshi Nakamoto nel suo Bitcoin Whitepaper del 2008. 
+  Il Proof-of-Work chiede ai miners di risolvere un complesso calcolo probabilistico; il primo a riuscirci è colui che valida il nuovo blocco (e ottiene la               ricompensa). Per far si che ciò accada si ha bisogno di computer dalla potenza elevatissima(oltre al dispendio energetcio) e in questo risiede la sicurezza di questo   algoritmo.
+  
+- Il prossimo algortimo è il Proof-Of-Stake dove procedimento fisico attraverso il quale i supercomputer competono tra loro per risolvere problemi matematici             complessi, cioè il mining, viene sostituito da un sistema in cui i validators garantiscono la validità delle operazioni effettuate impegnando una quota delle           proprie criptovalute. L'obiettivo principale di questo algoritmo è ridurre lo spreco di energia.
+  
+  
+  
 <a name="ethereum"></a>
 ##  Ethereum
 
@@ -50,6 +65,12 @@ Harmony è una blockchain progettata per la creazione e l'utilizzo di applicazio
 Uno dei punti più importanti di Harmony è l'implementazione dello sharding che ha permesso di ridurre il tempo di convalida dei nodi e quindi di velocizzare tutte le transizioni.
 Per garantire la protezione dei nodi e garantire il processo di convalida, Harmony ha introdotto la Verifiable Random Function (VRF) per l'appartenenza a frammenti imparziale e imprevedibile. Ciò significa che i nodi e i validatori vengono assegnati e riassegnati in modo casuale
 
+Harmony utilizza l'agoritmo di consenso chiamato Effective Proof of Stake (EPoS) con l'obiettivo di ridurre la centralizzazione e distribuire equamente le ricompensa a migliaia di validatori.
+
+Come vedremo più avanti il punto probabilmente di Harmony è l'introduzione e implementazione dello sharding che ha permesso una maggiore scalabilità rispetto per esempio alla stessa Ethereum.
 
 
+
+<a name="sharding"></a>
+##  Sharding
 
