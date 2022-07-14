@@ -102,3 +102,10 @@ Blockchain che hanno implementato lo sharding :
 
 Lo sharding dovrebbe essere uno dei punti futuri di Ethereum con l'utilizzio ovvimente dell'algoritmo di consenso Proof-Of-Stake (attualmente viene usato il PoW)
 
+<a name="software"></a>
+##  Software 
+
+[Nodejs](https://nodejs.org/it/)
+[Npm](https://www.npmjs.com/)
+
+
