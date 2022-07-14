@@ -96,9 +96,9 @@ ma ci sono anche degli svantaggi :
 
 Blockchain che hanno implementato lo sharding : 
 
- - Ziliqa una delle più veloci blockchain attualmente.
- - Harmony One
- - Elrond
+ - [Ziliqa](https://www.zilliqa.com/) una delle più veloci blockchain attualmente.
+ - [Harmony One](https://elrond.com/)
+ - [Elrond](https://www.harmony.one/)
 
 Lo sharding dovrebbe essere uno dei punti futuri di Ethereum con l'utilizzio ovvimente dell'algoritmo di consenso Proof-Of-Stake (attualmente viene usato il PoW)
 
