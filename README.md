@@ -105,7 +105,8 @@ Lo sharding dovrebbe essere uno dei punti futuri di Ethereum con l'utilizzio ovv
 <a name="software"></a>
 ##  Software 
 
-[Nodejs](https://nodejs.org/it/)
-[Npm](https://www.npmjs.com/)
+-[Nodejs](https://nodejs.org/it/)
+
+-[Npm](https://www.npmjs.com/)
 
 
