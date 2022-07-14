@@ -74,3 +74,4 @@ Come vedremo più avanti il punto probabilmente di Harmony è l'introduzione e i
 <a name="sharding"></a>
 ##  Sharding
 
+Le caratteristiche più importanti di una blockchain sono *decentralizzazione, la sicurezza e la scalabilità*.
