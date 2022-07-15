@@ -80,3 +80,6 @@ Per effettuare il deploy del nostro contratto possiamo collegarci a una delle re
 Lavoriamo la Rete testnet Kovan, andiamo a richiedere un [token test](https://gitter.im/kovan-testnet/faucet) e poi possiamo effettuare il deploy. 
 
 ![](https://github.com/Erxhes/progetto/blob/main/image/testKovan.png)
+
+
+![](https://github.com/Erxhes/progetto/blob/main/image/distribuzione%20bi.png)
