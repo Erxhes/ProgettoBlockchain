@@ -73,3 +73,10 @@ Aggiunta di altri studenti e inoltre abbiamo il primo studente per numero di mat
 
 
 ![](https://github.com/Erxhes/progetto/blob/main/image/secondoStudente.png)
+
+## 5.Transazione 
+
+Per effettuare il deploy del nostro contratto possiamo collegarci a una delle reti testnet presenti su Metamask.
+Lavoriamo la Rete testnet Kovan, andiamo a richiedere un [token test](https://gitter.im/kovan-testnet/faucet) e poi possiamo effettuare il deploy. 
+
+![](https://github.com/Erxhes/progetto/blob/main/image/testKovan.png)
