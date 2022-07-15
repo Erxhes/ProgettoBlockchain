@@ -54,3 +54,14 @@ Viene definito il proprietario e due funzioni che ci permettono di aggiunere uno
 ![](https://github.com/Erxhes/progetto/blob/main/image/Figura%204.png)
 
 
+## 4. Deploy
+
+Deploy del contratto creato con : 
+ 
+ - addStudent ---> aggiunta di uno studente
+ - getFirstStudent ---> ottieni il primo studente aggiunto 
+ - students ---> lista dei studenti aggiunti
+
+![](https://github.com/Erxhes/progetto/blob/main/image/deploy.png)
+
+
