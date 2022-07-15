@@ -113,4 +113,6 @@ Lo sharding dovrebbe essere uno dei punti futuri di Ethereum con l'utilizzio ovv
 
 -[Ganache](https://trufflesuite.com/ganache/)
 
+-[Metamask](https://metamask.io/)
+
 
