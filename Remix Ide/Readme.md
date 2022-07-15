@@ -58,10 +58,18 @@ Viene definito il proprietario e due funzioni che ci permettono di aggiunere uno
 
 Deploy del contratto creato con : 
  
- - addStudent ---> aggiunta di uno studente
- - getFirstStudent ---> ottieni il primo studente aggiunto 
- - students ---> lista dei studenti aggiunti
+ - addStudent ---> aggiunta di uno studente.
+ - getFirstStudent ---> ottieni il primo studente aggiunto.
+ - students ---> lista dei studenti aggiunti.
 
 ![](https://github.com/Erxhes/progetto/blob/main/image/deploy.png)
 
 
+Aggiunta di uno studente.
+
+![](https://github.com/Erxhes/progetto/blob/main/image/FirstStudent.png)
+
+Aggiunta di altri studenti e inoltre abbiamo il primo studente per numero di matricola.
+
+
+![](https://github.com/Erxhes/progetto/blob/main/image/secondoStudente.png)
