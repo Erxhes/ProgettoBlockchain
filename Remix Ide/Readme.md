@@ -38,11 +38,16 @@ La prima riga di codice rappresenta la versione di soldity che stiamo utilizzand
  
  Si inizia poi con la creazione del contratto dove si andrà a creare una strutture contenente il nome e matricola di uno studente.
  
- *My Contract
+ My Contract
+ 
  struct Student {
+ 
  string username;
+ 
  uint matricola;
- }*
+
+}
+
     
 Viene definito il proprietario e due funzioni che ci permettono di aggiunere uno studente e di ottenere il primo studente.
 
