@@ -14,6 +14,8 @@ e poi collegarsi alla Rete Principale Ethereum come in figura.
  - Test ---> verificare la validità dei nostri contratti
  - Deps ---> dipendenze 
  - Readme 
+
+![](https://github.com/Erxhes/progetto/blob/main/image/foto1.png)
  
  Nella figura 2 abbiamo il comppilatore di Solidity dove possiamo scegliere la versione di soldity che preferiamo, il tipo di linguaggio e la versione delle EVM.
 
@@ -27,7 +29,7 @@ e poi collegarsi alla Rete Principale Ethereum come in figura.
  - Gas Price ---> commissioni pagate dagli utenti necessario per elaborare e convalidare le transazioni sulla blockchain di Ethereum.
  - Value ---> quantità di ether con cui iniziare il contratto.
 
-![](https://github.com/Erxhes/progetto/blob/main/image/figura3.png)
+![](https://github.com/Erxhes/progetto/blob/main/image/figura3bis.png)
  
 ## 3.  Creazione Smart Contracts 
 
