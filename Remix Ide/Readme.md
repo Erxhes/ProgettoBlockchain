@@ -77,9 +77,13 @@ Aggiunta di altri studenti e inoltre abbiamo il primo studente per numero di mat
 ## 5.Transazione 
 
 Per effettuare il deploy del nostro contratto possiamo collegarci a una delle reti testnet presenti su Metamask.
-Lavoriamo la Rete testnet Kovan, andiamo a richiedere un [token test](https://gitter.im/kovan-testnet/faucet) e poi possiamo effettuare il deploy. 
+Lavoriamo con la Rete Testnet Ropsten, andiamo a richiedere un token test e poi possiamo effettuare il deploy. 
+Come vediamo dalle foto, possiamo scegliere il numero di transizioni e in base alla tassa che si vuole pagare il tempo per depositare può variare.
+Con una transizioni parliamo di pochi secondi, ma aumentando il numero delle transizioni aumenta notevolmente anche il tempo.
 
-![](https://github.com/Erxhes/progetto/blob/main/image/testKovanbi%20j.png)
+![](https://github.com/Erxhes/progetto/blob/main/image/rop.png)
 
 
-![](https://github.com/Erxhes/progetto/blob/main/image/distribuzione%20bi.png)
+![](https://github.com/Erxhes/progetto/blob/main/image/rop2.png)
+
+![](https://github.com/Erxhes/progetto/blob/main/image/contract.png)
