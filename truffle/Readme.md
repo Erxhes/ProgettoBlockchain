@@ -6,7 +6,7 @@ Dopo aver configurato Metamask, la prima cosa da fare è scaricare [nodejs](http
 
 Creare il progetto, verificare quali versioni sono le  più addatte alle proprie esigenze, inizializzare Ganache e installare *truffle*.
 
-![](https://github.com/Erxhes/progetto/blob/main/image/ddd.png)
+![](https://github.com/Erxhes/progetto/blob/main/image/gjkl.png)
 
 ![](https://github.com/Erxhes/progetto/blob/main/image/ffdff.png)
 
