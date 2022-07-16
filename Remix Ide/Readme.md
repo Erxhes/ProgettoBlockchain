@@ -78,7 +78,7 @@ Aggiunta di altri studenti e inoltre abbiamo il primo studente per numero di mat
 
 Per effettuare il deploy del nostro contratto possiamo collegarci a una delle reti testnet presenti su Metamask.
 Lavoriamo con la Rete Testnet Ropsten, andiamo a richiedere un token test e poi possiamo effettuare il deploy. 
-Come vediamo dalle foto, possiamo scegliere il numero di transizioni e in base alla tassa che si vuole pagare il tempo per depositare può variare.
+Come vediamo dalle foto possiamo scegliere il numero di transizioni e ,in base alla tassa che si vuole pagare, il tempo per depositare può variare.
 Con una transizioni parliamo di pochi secondi, ma aumentando il numero delle transizioni aumenta notevolmente anche il tempo.
 
 ![](https://github.com/Erxhes/progetto/blob/main/image/rop.png)
