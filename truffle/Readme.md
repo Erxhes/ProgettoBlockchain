@@ -48,7 +48,7 @@ Per effettuare una sola transizioni ci sono voluti pochi secondi, aumentando il 
 
 Come sappiamo questo è un problema che Ethereum vuole risolvere introducendo lo sharding.
 
-Inoltre il cosiddetto *mining* si può fare con computer che devono garantire delle prestazioni elevate (da tener conto quando si lavora con le blockchain e si vogliono effettuare dei test come nel caso che ho descritto)
+Inoltre il cosiddetto *mining* si può fare con computer che devono garantire delle prestazioni elevate (da tener conto quando si lavora con le blockchain e se si vogliono effettuare dei test come nel caso che ho descritto)
 
 
 
