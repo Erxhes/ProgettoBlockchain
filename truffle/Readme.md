@@ -6,9 +6,10 @@ Dopo aver configurato Metamask, la prima cosa da fare è scaricare [nodejs](http
 
 Creare il progetto, verificare quali versioni sono le  più addatte alle proprie esigenze, inizializzare Ganache (con truffle) e installare *truffle*.
 
+![](https://github.com/Erxhes/progetto/blob/main/image/gjkl.png)
+
 ![](https://github.com/Erxhes/progetto/blob/main/image/ganache.png)
 
-![](https://github.com/Erxhes/progetto/blob/main/image/gjkl.png)
 
 ![](https://github.com/Erxhes/progetto/blob/main/image/ffdff.png)
 
@@ -19,6 +20,21 @@ Utilizziamo lo smart contract dell'esempio di Remix Ide, concentriamoci su tutto
 
 ![](https://github.com/Erxhes/progetto/blob/main/image/dvvdzv%20zab.png)
 
+
+Possiamo compilare il nostro contratto : 
+
+![](https://github.com/Erxhes/progetto/blob/main/image/compile.png)
+
+
+Effettuare il migrate del contratto verso la blockchain, è importante avere aperto Ganache altrimenti il comando fallirebbe : 
+
+![](https://github.com/Erxhes/progetto/blob/main/image/migrate.png)
+
+![](https://github.com/Erxhes/progetto/blob/main/image/migrate%202.png)
+
+Aprendo la console di truffle possiamo vedere gli indirizzi e i blochi che abbiamo in Ganache : 
+
+![](https://github.com/Erxhes/progetto/blob/main/image/account.png)
 
 
 
