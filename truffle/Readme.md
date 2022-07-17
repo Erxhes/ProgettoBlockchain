@@ -39,11 +39,15 @@ Aprendo la console di truffle possiamo vedere gli indirizzi e i blochi che abbia
 Inoltre possiamo creare dei test per verificare se i contratti funzionino o se si hanno dei problemi.
 
 Dopo aver verificato la bontà del codice possiamo effettuare la transizione in una delle 5 reti testnet di Ethereum.
-Possiamo usare la rete testnet Kovan o come nel caso spiegato precedente in Remix Ide la rete ropsten.
+
+Possiamo usare la rete testnet Kovan o come nel caso spiegato precedentemente in Remix Ide la rete ropsten.
 
 In base al numero di transizioni e alla tassa che si vuole pagare i tempi possono variare.
+
 Per effettuare una sola transizioni ci sono voluti pochi secondi, aumentando il numero a 10 transizioni i tempi sono aumentati molto.
+
 Come sappiamo questo è un problema che Ethereum vuole risolvere introducendo lo sharding.
+
 Inoltre il cosiddetto *mining* si può fare con computer che devono garantire delle prestazioni elevate (da tener conto quando si lavora con le blockchain e si vogliono effettuare dei test come nel caso che ho descritto)
 
 
