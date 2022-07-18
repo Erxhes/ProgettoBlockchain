@@ -43,3 +43,23 @@ Creiamo un file ENV dove inseriamo le chiavi :
 
 ![](https://github.com/Erxhes/progetto/blob/main/image/env.png)
 
+Prima di procedere con la compilazione dei contratti dobbiamo ottenere i nostri ONE Token per lavorare sulla Testnet : 
+
+
+- Trovare il proprio indirizzo su metamask utilizzando la rete Testnet 
+
+  ![](https://github.com/Erxhes/progetto/blob/main/image/harmony1.png)
+  
+ 
+
+- Copiare l'indirizzo nel sito [Harmony Blockchain Explorer](https://explorer.harmony.one/) stando attenti al formato di indirizzo che si vuole (ONE nel caso nostro)
+
+ 
+ ![](https://github.com/Erxhes/progetto/blob/main/image/harmony2.png)
+ 
+ 
+ - Si ottiene un indirizzo in formato ONE che deve essere copiato in [Faucet Harmony Testnet](https://faucet.pops.one/) in maniera da ricevere i nostri token.
+ 
+ ![](https://github.com/Erxhes/progetto/blob/main/image/harmony3.png)
+
+
