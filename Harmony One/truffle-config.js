@@ -11,7 +11,7 @@ module.exports = {
   networks: {
     localnet: {
       provider: () => {
-        return new PrivateKeyProvider(process.env.LOCALNET_PRIVATE_KEY, 'http://localhost:9500', networkId.Testnet)
+        return new PrivateKeyProvider(process.env.LOCALNET_PRIVATE_KEY, 'http://localhost:8500', networkId.Testnet)
       },
       network_id: networkId.Testnet
     },
@@ -33,7 +33,7 @@ module.exports = {
 
   compilers: {
     solc: {
-      version: '0.7.6'
+      version: ''
     },
   }
 }
