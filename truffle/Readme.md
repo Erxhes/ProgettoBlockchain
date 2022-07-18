@@ -16,7 +16,7 @@ Creare il progetto, verificare quali versioni sono le  più addatte alle proprie
 
 Utilizziamo lo smart contract dell'esempio di Remix Ide, concentriamoci su tutto ciò che permette la riuscita di tutto il nostro lavoro.
 
--[Migrations](https://github.com/Erxhes/progetto/blob/main/codici/Migrations.sol), initial migration e deploy migration ci permettono di depositare il nostro             contratto intelligente nella blockchain e questoo è fondamentale se vogliamo lavorare con le dapp o in generale interagine con la blockchain.
+-[Migrations](https://github.com/Erxhes/progetto/blob/main/codici/Migrations.sol), initial migration e deploy migration ci permettono di depositare il nostro             contratto intelligente nella blockchain e questo è fondamentale se vogliamo lavorare con le dapp o in generale interagire con la blockchain.
 
 ![](https://github.com/Erxhes/progetto/blob/main/image/dvvdzv%20zab.png)
 
