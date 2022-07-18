@@ -65,7 +65,7 @@ Prima di procedere con la compilazione dei contratti dobbiamo ottenere i nostri 
  Una volta fatto tutto ciò possiamo iniziare con la compilazione e la migrazione degli smart contract (si lavora allo stesso modo dei due casi precedenti, questo ci 
  permette di capire come Harmony possa interagire facilmente con Ethereum)
  
- #Compilazione contratto : 
+ # Compilazione contratto : 
  
  * `npm install`
  * 
