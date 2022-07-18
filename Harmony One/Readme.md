@@ -37,5 +37,9 @@ Queste chiavi possono essere ottenute nel seguende modo:
 ![](https://github.com/Erxhes/progetto/blob/main/image/metamaskharmony5.png)
 
 
+Le chiavi sono private e non devono essere assolutamente condivise.
 
+Creiamo un file ENV dove inseriamo le chiavi : 
+
+![](https://github.com/Erxhes/progetto/blob/main/image/env.png)
 
