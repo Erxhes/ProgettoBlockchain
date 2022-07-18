@@ -61,5 +61,18 @@ Prima di procedere con la compilazione dei contratti dobbiamo ottenere i nostri 
  - Si ottiene un indirizzo in formato ONE che deve essere copiato in [Faucet Harmony Testnet](https://faucet.pops.one/) in maniera da ricevere i nostri token.
  
  ![](https://github.com/Erxhes/progetto/blob/main/image/harmony3.png)
+ 
+ Una volta fatto tutto ciò possiamo iniziare con la compilazione e la migrazione degli smart contract (si lavora allo stesso modo dei due casi precedenti, questo ci 
+ permette di capire come Harmony possa interagire facilmente con Ethereum)
+ 
+ #Compilazione contratto : 
+ 
+ * `npm install`
+ * 
+ * `truffle compile`
+ * 
+ * `truffle migrate --reset --network testnet` 
+
+
 
 
