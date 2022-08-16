@@ -1,59 +1,77 @@
-pragma solidity ^0.8.0;
+pragma solidity >=0.4.22 <0.9.0;
 
 contract Storage {
+    uint256 public s = 1;
+    uint256 public c;
+    uint256 public t = 1;
+    mapping(address => uint256) balances;
 
-    constructor() public {
- 
-    }
-    
-  struct farmer {
-
-     address farmerAddress;
+    struct Farmer {
+        address farmerAddress;
         string farmerId;
         string farmerName;
         string location;
         string cropName;
         uint256 phone;
         uint256 quantity;
-        string date;
-  }
+        uint256 expectedPrice;
+    }
 
-  struct lot {
-        string lotNumber;
+    struct Lot {
+        string lotNum;
         string grade;
-        uint256 mrp;
+        uint256 MRP;
         string testDate;
-        string expDate;
+        string expiryDate;
     }
 
-    address public owner;
+    address public Tester;
+    address Owner;
+    mapping(string => Farmer) farmer;
+    mapping(string => Lot) lot;
+    Farmer[] public farmers;
+    Lot[] public lots;
 
-    
-    mapping (address  => farmer) public idFarmers;
-    farmer[] public Farmers;
-
-     /
-
-     mapping (address => lot[]) public idlots;
-     lot[] public Lots;
-
-
-    function Produce(bytes memory id, bytes32 Name, bytes32 location, bytes32 crop, uint256 phone, uint quant, string date) public { 
-        Storage.farmer memory fnew = farmer(id,Name,location,crop,phone,quant,date);
-        idFarmers[id] = fnew;
-        Farmers.push(fnew);
+    function produce(
+        address faddress,
+        string memory id,
+        string memory name,
+        string memory loc,
+        string memory crop,
+        uint256 phone,
+        uint256 quant,
+        uint256 pric
+    ) public {
+        Storage.Farmer memory newfarmer = Farmer(faddress,id,name,loc,crop,phone,quant,pric);
+        farmer[id] = newfarmer;
+        farmers.push(newfarmer);
         s++;
-     }
-
-    function getProduce() public view returns (uint256 ) {
-        return s;
     }
 
-    function getFarmers() public view returns(address [] memory ) {
-        return (Farmers);
+    function getFarmerAddress(uint256 j) public view returns (address) {
+        return (farmers[j].farmerAddress);
     }
 
-    function getLots() public view returns(address [] memory ) {
-        return (Lots);
-    }
-}
+    function getproduce(uint256 i)
+        public
+        view
+        returns (
+            string memory,
+            string memory,
+            string memory,
+            string memory,
+            uint256,
+            uint256,
+            uint256
+        )
+    {
+        return (
+            farmers[i].farmerId,
+            farmers[i].farmerName,
+            farmers[i].location,
+            farmers[i].cropName,
+            farmers[i].phone,
+            farmers[i].quantity,
+            farmers[i].expectedPrice
+        );
+    }}
