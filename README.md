@@ -1,3 +1,5 @@
+Progetto che tratterà le blockchain e le tecniche di sharding per il tirocinio svolto presso l'UNIVPM
+
 # Ethereum, Harmony One & Sharding
 
 
